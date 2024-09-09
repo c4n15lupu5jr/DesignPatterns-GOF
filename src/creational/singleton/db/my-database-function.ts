@@ -1,4 +1,4 @@
-import { User } from '../interfaces/user'
+import { User } from '../user'
 
 export const MyDatabaseFunction = (function() {
     const users: User[] = [];
