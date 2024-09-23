@@ -14,5 +14,5 @@
     },
     "include": [
         "./src"
-, "src/creational/factory-method/vehicle"    ]
+, "src/creational/factory-method/vehicle", "src/creational/prototype/js"    ]
 }
