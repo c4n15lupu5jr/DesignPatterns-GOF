@@ -1,4 +1,4 @@
-import { MealBox } from '../classes/meal-box';
+import { MealBox } from './meal-box';
 
 const rice = new Rice('Arroz', 5);
 const beans = new Beans('Feijão', 10);

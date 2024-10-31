@@ -14,5 +14,5 @@
     },
     "include": [
         "./src"
-, "src/creational/factory-method/vehicle", "src/creational/prototype/js", "src/structural/composite/diagramas", "src/structural/bridge/remote-control", "src/structural/bridge/device"    ]
+, "src/creational/factory-method/vehicle", "src/creational/prototype/js", "src/creational/structural/composite/diagramas", "src/creational/structural/bridge/remote-control", "src/creational/structural/bridge/device", "src/creational/structural/decorator/product", "src/creational/proxy/system-user", "src/creational/proxy/main.ts"    ]
 }

@@ -3,6 +3,12 @@ import { MealBox } from './meal-box';
 import { Beans, Beverage, Dessert, Meat, Rice } from "./meals";
 
 export class MainDishBuilder implements MealBuilderProtocol {
+    reset() {
+        throw new Error("Method not implemented.");
+    }
+    getPrice(): any {
+        throw new Error("Method not implemented.");
+    }
     private _meal: MealBox = new MealBox();
 
     makeMeal(): this {
